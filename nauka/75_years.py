@@ -2,7 +2,7 @@ import datetime
 
 name = input('Enter your name: ')
 
-print("Hello", name,", enter your age and I'll tell you when you turn c years old")
+print("Hello", name,", enter your age and I'll tell you when you turn 75 years old")
 
 age = int(input('Enter your age: '))
 
